@@ -2,11 +2,7 @@ body {
 	background-color: rebeccapurple;
 }
 
-.navigation {
-	text-align: center;
-}
-
-nav a {
+nav {
 	text-align: center;
 	text-decoration: none;
 	color: white;
